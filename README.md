@@ -28,11 +28,7 @@ A full-stack Security Information and Event Management (SIEM) dashboard built us
 ## Detection Rules
 
 - Brute-force detection:
-  - 5 failed logins from same IP
-
-## Screenshots
-
-(Add screenshots here)
+  - Several failed logins from same IP
 
 ## Future Improvements
 
